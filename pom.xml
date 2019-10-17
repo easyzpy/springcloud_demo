@@ -10,6 +10,17 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <module>
+            springcloud_producer
+        </module>
+        <module>
+            springcloud_consumer
+        </module>
+        <module>
+            eureka_server
+        </module>
+    </modules>
 
 </project>
 
